@@ -17,7 +17,7 @@ component:
 12.ams117 5v
 
 
+![WhatsApp Image 2021-02-04 at 17 01 33](https://user-images.githubusercontent.com/75739124/106876810-b4778e00-670a-11eb-8285-f8b5342d770b.jpeg)
 
-![WhatsApp Image 2021-01-07 at 16 54 34](https://user-images.githubusercontent.com/75739124/103880704-147b1480-510c-11eb-849c-9cd691a63251.jpeg)
-![WhatsApp Image 2021-01-07 at 16 54 34 (1)](https://user-images.githubusercontent.com/75739124/103880734-1e047c80-510c-11eb-80cd-1f5fe81f084e.jpeg)
+
 ![WhatsApp Image 2021-01-07 at 16 54 33](https://user-images.githubusercontent.com/75739124/103880757-252b8a80-510c-11eb-89e2-a348e8e24c15.jpeg)
