@@ -2,6 +2,12 @@
 smart garden based esp8266
 if u have a question about this project ,email me at dafanur18@gmail.com
 
+
+https://www.bukalapak.com/p/elektronik/elektronik-lainnya/4760m0h-jual-smart-garden-esp8266?from=product_owner&product_owner=normal_seller
+
+
+
+
 component:
 1.nodemcu esp8266 amica
 2pin header
